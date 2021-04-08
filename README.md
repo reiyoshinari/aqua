@@ -15,5 +15,5 @@ The UI components are embedded as iframe inside the design document site - Figma
 
 Vuepress: https://vuepress.vuejs.org/
 
-## The design system live 
-* aquadesign.github.io
+## The live design system 
+aquadesign.github.io
